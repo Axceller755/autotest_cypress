@@ -1,0 +1,9 @@
+{
+	"login":"USER_LOGIN",
+	"password":"USER_PASSWORD",
+    "card_number":"4276550099363189",
+    "csv":"123",
+    "card_date":"1234",
+    "card_user_name":"Evgeni Levykin",
+    "card_success_code":"12345678"
+}
