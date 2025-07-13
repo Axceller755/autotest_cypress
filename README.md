@@ -23,7 +23,7 @@
 ![image](https://raw.githubusercontent.com/Axceller755/autotest_cypress/refs/heads/main/hooks.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/user_data.png)
+![image](https://raw.githubusercontent.com/Axceller755/autotest_cypress/refs/heads/main/user_data.png)
 
 4. Каждая страница описана в формате объекта с локаторами
 ![image](https://raw.githubusercontent.com/Axceller755/autotest_cypress/refs/heads/main/locators.png)
